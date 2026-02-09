@@ -24,7 +24,7 @@ body, html {
 
 /* --- Contenedor Principal con Fondo --- */
 .landing-container {
-    background-image: url('/fondo_landingpage.png');
+    background-image: url('/FLYER/img/fondo_landingpage.png');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
